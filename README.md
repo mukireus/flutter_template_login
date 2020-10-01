@@ -1,4 +1,4 @@
-# Flutter UI Login Screen
+# Flutter UI Login Screen - Awesome Project
 
 This app was made for training. For arrangements and development ideas, please contact me.
 
